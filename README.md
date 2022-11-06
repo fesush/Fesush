@@ -30,7 +30,7 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][c/c++]
+[<img align="left" alt="Python" width="26px" src="https://www.google.com/search?q=c%2Fc%2B%2B&tbm=isch&ved=2ahUKEwjQnpbIrJr7AhVHyAIHHRb_BzQQ2-cCegQIABAA&oq=c%2Fc%2B%2B&gs_lcp=CgNpbWcQA1D9Clj9CmCZC2gAcAB4AIABXogBXpIBATGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=zxJoY5D7GceQi-gPlv6foAM&bih=914&biw=1920#imgrc=YSGTfhiV9sgdAM" />][c/c++]
 <br />
 
 ## 👩‍💻📱 My Released Applications
