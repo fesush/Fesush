@@ -31,10 +31,6 @@
 <img align="left" alt="C/C++" width="26px" src="https://kig.re/assets/images/posts/cpp/c-cpp.jpg" />
 <br />
 
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
-
-
 <br />
 <br />
 <br />
