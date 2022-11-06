@@ -29,11 +29,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 <img align="left" alt="C/C++" width="26px" src="https://kig.re/assets/images/posts/cpp/c-cpp.jpg" />
-<br />
 
-<br />
-<br />
-<br />
 <br />
 <br />
 
