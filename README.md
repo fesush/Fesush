@@ -31,7 +31,7 @@
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
 [<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="C/C++" width="26px" src="https://kig.re/assets/images/posts/cpp/c-cpp.png" />
+[<img align="left" alt="C/C++" width="26px" src="https://kig.re/assets/images/posts/cpp/c-cpp.jpg" />
 <br />
 
 ## 👩‍💻📱 My Released Applications
