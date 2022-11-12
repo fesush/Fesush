@@ -5,7 +5,7 @@
 - 🔭 Department of Electronics and Automation at Marmara University Vocational School of Technical Sciences
       I am a 2nd year Electronic Communication Technology student. Since my areas of interest are embedded software and automation technologies, I am gladly developing myself       in this field and trying to reach my career goal.
 - 🌱 I’m currently learning 😂
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and developing embedded software 🤖
+- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and developing embedded software 🤖
 - ⚡ Fun fact:play basketball 🏀 and cycling 🚴‍♀️
 
 <br />
