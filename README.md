@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw1WsggajzN_YlvmxsZ0n5x3&ust=1668348552201000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiY5OnoqPsCFQAAAAAdAAAAABA8" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media.tenor.com/qJ5evVs-_uUAAAAS/coding.gif" width="400" height="320" />
 
 ## I'm a Student 👨‍🎓
 - 🔭 Department of Electronics and Automation at Marmara University Vocational School of Technical Sciences
