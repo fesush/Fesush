@@ -6,7 +6,7 @@
 I am a 2nd year Electronic Communication Technology student. Since my main areas of interest are embedded software and cyber security, I am fondly developing myself in this field and trying to reach my career goal.
 - 🌱 I’m currently learning 😂
 - 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and developing embedded software 🤖
-- ⚡ Fun fact:play basketball 🏀 and cycling 🚴‍♀️
+
 
 <br />
 
